@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/guptatilak/Documents/trip-duration/trip-duration/mlruns/0/59ea9567b9d549f9ab27f9d0d71b2491/artifacts
+end_time: 1719856498319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59ea9567b9d549f9ab27f9d0d71b2491
+run_name: XGB Final Model
+run_uuid: 59ea9567b9d549f9ab27f9d0d71b2491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719856495072
+status: 3
+tags: []
+user_id: guptatilak

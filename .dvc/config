@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://github.com/gupta-tilak/trip-duration.git
+['remote "myremote"']
+    url = https://drive.google.com/drive/folders/1rjdDsn1_fW0k43yI4tIU9Gew8xPGFI3g

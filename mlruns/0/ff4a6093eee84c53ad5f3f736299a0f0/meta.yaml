@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/guptatilak/Documents/trip-duration/trip-duration/mlruns/0/ff4a6093eee84c53ad5f3f736299a0f0/artifacts
+end_time: 1719856495070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff4a6093eee84c53ad5f3f736299a0f0
+run_name: XGBRegressor
+run_uuid: ff4a6093eee84c53ad5f3f736299a0f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719856490872
+status: 3
+tags: []
+user_id: guptatilak
