@@ -34,6 +34,11 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y jq unzip
 
+      - name: Install Docker
+        run:
+          sudo apt-get update
+          sudo apt-get install -y docker.io
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
