@@ -13,6 +13,10 @@ COPY requirements.txt /app/requirements.txt
 # Install any needed packages specified in requirements.txt
 RUN pip install -r requirements.txt
 
+RUN curl -fsSL https://get.docker.com -o get-docker.sh
+RUN chmod +x get-docker.sh
+RUN sh get-docker.sh
+
 # Copy files from S3 inside docker
 # RUN mkdir /app/models
 # RUN aws s3 cp s3://creditcard-project/models/model.joblib /app/models/model.joblib
