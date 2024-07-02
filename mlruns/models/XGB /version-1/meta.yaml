@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719910451462
+current_stage: None
+description: ''
+last_updated_timestamp: 1719910451462
+name: 'XGB '
+run_id: 4ebc0e23f68146188fff3973db67f3db
+run_link: ''
+source: file:///Users/guptatilak/Documents/trip-duration/trip-duration/mlruns/0/4ebc0e23f68146188fff3973db67f3db/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/guptatilak/Documents/trip-duration/trip-duration/mlruns/0/4ebc0e23f68146188fff3973db67f3db/artifacts/model
+user_id: null
+version: 1
